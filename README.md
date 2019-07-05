@@ -40,6 +40,7 @@
  2.家庭作业——七段数码管的显示
    七段数码管显示电路图
    ![](七月四日家庭作业——数码管的数字显示/3.PNG)
-   [七段数码管显示的设置]（）
+   [七段数码管显示的设置](https://github.com/ttbit1/Morse/blob/master/%E4%B8%83%E6%9C%88%E5%9B%9B%E6%97%A5%E5%AE%B6%E5%BA%AD%E4%BD%9C%E4%B8%9A%E2%80%94%E2%80%94%E6%95%B0%E7%A0%81%E7%AE%A1%E7%9A%84%E6%95%B0%E5%AD%97%E6%98%BE%E7%A4%BA/terrific_maimu_fulffy1.ino)
  
 ## 第四天
+   [摩尔斯码的实现](https://github.com/ttbit1/Morse/blob/master/%E4%B8%83%E6%9C%88%E4%B8%89%E6%97%A5%E5%AE%B6%E5%BA%AD%E4%BD%9C%E4%B8%9A%E2%80%94%E2%80%94%E6%91%A9%E5%B0%94%E6%96%AF%E7%A0%81/Morse.ino)
