@@ -34,5 +34,6 @@
 1.课堂作业-小车设计
   小车电路图
 ![](七月四日课堂作业/1.PNG)
-[小车的设置]（）
+
+[小车的设置]（https://github.com/ttbit1/Morse/blob/master/%E4%B8%83%E6%9C%88%E5%9B%9B%E6%97%A5%E8%AF%BE%E5%A0%82%E4%BD%9C%E4%B8%9A/neat_gaaris1.ino）
 ## 第四天
