@@ -47,7 +47,7 @@
    1.[摩尔斯码的实现](https://github.com/ttbit1/Morse/blob/master/%E4%B8%83%E6%9C%88%E4%B8%89%E6%97%A5%E5%AE%B6%E5%BA%AD%E4%BD%9C%E4%B8%9A%E2%80%94%E2%80%94%E6%91%A9%E5%B0%94%E6%96%AF%E7%A0%81/Morse.ino)
   
   2.多个数码管的显示电路图
-   ![](七月五日家庭作业/四个数码管的显示/10.PNG)
+   ![](七月五日家庭作业/四个数码管的显示/10.PNG) 
     
-    [多个数码管显示代码的设置]()
+   [多个数码管显示代码的设置](https://github.com/ttbit1/Morse/blob/master/%E4%B8%83%E6%9C%88%E4%BA%94%E6%97%A5%E5%AE%B6%E5%BA%AD%E4%BD%9C%E4%B8%9A/%E5%9B%9B%E4%B8%AA%E6%95%B0%E7%A0%81%E7%AE%A1%E7%9A%84%E6%98%BE%E7%A4%BA/%E5%9B%9B%E4%B8%AA%E6%95%B0%E7%A0%81%E7%AE%A1%E7%9A%84%E6%98%BE%E7%A4%BA.ino)
 
